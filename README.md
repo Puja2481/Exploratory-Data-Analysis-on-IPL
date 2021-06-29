@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-on-IPL
 
-# Project Vedio
+# Project Video
 [![Screenshot (2020)](https://user-images.githubusercontent.com/56734293/123761022-06e66080-d8df-11eb-88b8-c66306e29ebf.png)](https://www.youtube.com/watch?v=oRCAL14w1zs "Click to Watch the video")
 
 
@@ -30,12 +30,34 @@ Research scope: Predicting the winner of the next season of IPL based on past da
 # Insights:
 **Deliveries.csv**
 1. In-depth analysis of David Warner's(Australian Batsman) perfomance
+
+![image](https://user-images.githubusercontent.com/56734293/123782986-81b97680-d8f3-11eb-91b4-ee5a5a83751f.png)
+
 2. Score Distribution of the Teams by Innings
+
+![image](https://user-images.githubusercontent.com/56734293/123783101-a01f7200-d8f3-11eb-89ba-c31a67b276fa.png)
+
 3. How many times teams score more than 200?
+
+![image](https://user-images.githubusercontent.com/56734293/123783215-c0e7c780-d8f3-11eb-82e9-faa3e9c7f52e.png)
+
 4. Batsman Comparison
+
+![image](https://user-images.githubusercontent.com/56734293/123783355-e7a5fe00-d8f3-11eb-8c58-890b5f236f0d.png)
+
 5. Top 10 Batsman
+
+![image](https://user-images.githubusercontent.com/56734293/123783418-f7254700-d8f3-11eb-9438-81093e6a1234.png)
+
 6. Top individual scores of batsman
+
+![image](https://user-images.githubusercontent.com/56734293/123783513-0e643480-d8f4-11eb-85fe-66a57d9fddee.png)
+
 7. Highest wicket taker 
+
+![image](https://user-images.githubusercontent.com/56734293/123783557-1d4ae700-d8f4-11eb-8317-a4164abb5cd5.png)
+
+
 
 **Matches.csv**
 1. Basic Analysis - 
@@ -45,14 +67,39 @@ Research scope: Predicting the winner of the next season of IPL based on past da
     d. who won the man of the match maximum time?
     e. max wins by runs.
     f. highest wins by wickets.
+    
 2. Toss desicions across seasons.
+
+![image](https://user-images.githubusercontent.com/56734293/123783700-49666800-d8f4-11eb-9728-c25b21a07189.png)
+
 3. Maximum toss winners.
+
+![image](https://user-images.githubusercontent.com/56734293/123783775-5be0a180-d8f4-11eb-99da-b2768919f631.png)
+
 4. total matches played by team vs number of times they won.
+
+[![image](https://user-images.githubusercontent.com/56734293/123784454-140e4a00-d8f5-11eb-8bab-05fb9ff961b1.png)]![image](https://user-images.githubusercontent.com/56734293/123784497-212b3900-d8f5-11eb-91d5-a6cef361ad04.png)
+
 5. Matches played across each season.
+
+![image](https://user-images.githubusercontent.com/56734293/123784681-4d46ba00-d8f5-11eb-9323-9e23151c574c.png)
+
 6. Runs across the season.
+
+![image](https://user-images.githubusercontent.com/56734293/123784728-5b94d600-d8f5-11eb-8d53-f5e388a35436.png)
+
 7. Average runs per match in each season.
+
+[![image](https://user-images.githubusercontent.com/56734293/123784808-749d8700-d8f5-11eb-85b3-e6f6f3475731.png)]![image](https://user-images.githubusercontent.com/56734293/123784871-82eba300-d8f5-11eb-8d0d-30ad90640adb.png)
+
 8. Lucky venue for the team.
+
+![image](https://user-images.githubusercontent.com/56734293/123784966-9a2a9080-d8f5-11eb-8374-e7db92169f8c.png)
+
 9. Comparison of two teams based on their perfomance.    
+
+![image](https://user-images.githubusercontent.com/56734293/123785048-b0d0e780-d8f5-11eb-8464-7a9bc7c27a5d.png)
+
 
 # Author
 
